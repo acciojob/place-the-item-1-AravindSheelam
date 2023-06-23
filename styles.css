@@ -7,21 +7,21 @@
 .item-1{
     width: 100px;
     height: 100px;
-    background-color: red;
+    background:red;
     order: 2;
 }
 
 .item-2{
     width: 100px;
     height: 100px;
-    background-color: blue;
+    background:blue;
     order: 4;
 }
 
 .item-3{
     width: 100px;
     height: 100px;
-    background-color: green;
+    background:green;
     order: 1;
 }
 /* Your CSS Code here. */
